@@ -5,7 +5,7 @@
     <Nullable>enable</Nullable>
     <ImplicitUsings>enable</ImplicitUsings>
     <InvariantGlobalization>true</InvariantGlobalization>
-    <GeneratePackageOnBuild>True</GeneratePackageOnBuild>
+    <GeneratePackageOnBuild>False</GeneratePackageOnBuild>
 	<IsPackage>true</IsPackage>
 	<PackAsTool>True</PackAsTool>
 	<EnforceCodeStyleInBuild>True</EnforceCodeStyleInBuild>
